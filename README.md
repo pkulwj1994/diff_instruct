@@ -54,8 +54,6 @@ In the experiment, the FID will be calculated automatically for each "snap" of r
 
 ## License
 
-Copyright &copy; 2022, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
-
 All material, including source code and pre-trained models, is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## Citation
