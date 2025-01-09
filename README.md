@@ -59,13 +59,12 @@ All material, including source code and pre-trained models, is licensed under th
 ## Citation
 
 ```
-@inproceedings{
-luo2023diffinstruct,
-title={Diff-Instruct: A Universal Approach for Transferring Knowledge From Pre-trained Diffusion Models},
-author={Weijian Luo and Tianyang Hu and Shifeng Zhang and Jiacheng Sun and Zhenguo Li and Zhihua Zhang},
-booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
-year={2023},
-url={https://openreview.net/forum?id=MLIs5iRq4w}
+@article{luo2024diffinstruct,
+  title={Diff-instruct: A universal approach for transferring knowledge from pre-trained diffusion models},
+  author={Luo, Weijian and Hu, Tianyang and Zhang, Shifeng and Sun, Jiacheng and Li, Zhenguo and Zhang, Zhihua},
+  journal={Advances in Neural Information Processing Systems},
+  volume={36},
+  year={2024}
 }
 ```
 
